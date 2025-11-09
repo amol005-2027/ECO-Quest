@@ -20,7 +20,7 @@ interface ChampData {
 }
 
 const EcoChampWeek = () => {
-  const currentWeek = "February 19-25, 2024";
+  const currentWeek = "September 19-25, 2025";
   
   const weeklyChamps: ChampData[] = [
     {
